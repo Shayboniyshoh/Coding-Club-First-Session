@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    /*     border: 1px solid #000;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 100px;
+    display: inline-block; */
+    /* display: inline; With 'display: inline', the width, height, margin-top, margin-bottom, and float properties have no effect. */
+}
+
+.div1 {
+    /* float: right; */
+}
+
+.div2 {
+    /* float: inline-start; */
+    /* float: left; */
+}
+
+/* .div3 {
+    float: right;
+}
+ */
+span {
+    /* border: 1px solid #000; */
+    /* display: block; */
+    /* display: inline-block; */
+    /* width: 30%; */
+}
+
+
+/* .one {
+    float: right;
+}
+
+.two {
+    float: right;
+}
+
+.three {
+    float: left;
+} */
